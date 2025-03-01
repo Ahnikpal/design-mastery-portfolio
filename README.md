@@ -2,7 +2,7 @@ Web Design Mastery | Ahnik
 A modern, responsive portfolio website showcasing my web design and development skills.
 
 🚀 Live Demo
-🔗 (https://kj1mbktwnjvnoifrqnkn1q.on.drv.tw/www.myportfolio.com/portfolio%20project/#home) 
+🔗 https://kj1mbktwnjvnoifrqnkn1q.on.drv.tw/www.myportfolio.com/portfolio%20project/#home
 
 📌 Features
 ✅ Fully responsive design
@@ -22,7 +22,7 @@ ScrollReveal.js – Scroll animations
 This project is open-source and available under the MIT License.
 
 📬 Contact
-💼 Portfolio: ahnik.com ([Replace with your actual link](https://kj1mbktwnjvnoifrqnkn1q.on.drv.tw/www.myportfolio.com/portfolio%20project/#home))
+💼 Portfolio: ahnik.com https://kj1mbktwnjvnoifrqnkn1q.on.drv.tw/www.myportfolio.com/portfolio%20project/#home
 📧 Email: your-ahnik2005@gmail.com
 
 
